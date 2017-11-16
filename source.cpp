@@ -7,12 +7,10 @@ using namespace std;
 //This program gets a word from the user 
 //prints it and individual characters
 
-}void main();
+void intmain();
 
-	}
+void pause();
 
-}void pause();
-}
 int main() {
     string word;
 
