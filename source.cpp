@@ -18,7 +18,7 @@ int main() {
 
 	cout << "Enter a word: ";
 	cin >> word;
-
+word.length = x;
 	cout << "You entered " << word << endl;
 	cout << "Individual characters:\n";
 	for(int i=0; i<word.length(); i++)
