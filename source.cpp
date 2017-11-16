@@ -7,7 +7,7 @@ using namespace std;
 //This program gets a word from the user 
 //prints it and individual characters
 
-void intmain();
+void int main();
 
 void pause();
 
