@@ -7,6 +7,12 @@ using namespace std;
 //This program gets a word from the user 
 //prints it and individual characters
 
+}void main();
+
+	}
+
+}void pause();
+}
 int main() {
     string word;
 
@@ -16,5 +22,12 @@ int main() {
 	cout << "You entered " << word << endl;
 	cout << "Individual characters:\n";
 	for(int i=0; i<word.length(); i++)
-        cout << word[i] << endl;
+		cout << word[i] << endl;
+
+
+pause();
+
+
 }
+
+
